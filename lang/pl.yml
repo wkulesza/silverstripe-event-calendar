@@ -1,0 +1,51 @@
+pl:
+  Calendar:
+    NUMBEROFEVENTS: 'Liczba wydarzeń'
+    DEFAULTDATEHEADER: 'Standardowy nagłówek.'
+    NUMBERFUTUREDATES: 'Ilość terminów przyszłych'
+    UPCOMINGEVENTSFOR: 'Nadchodzące wydarzenia dla %s'
+    FILTER: 'Filtruj'
+    JUMPTOMONTH: 'Skocz do miesiaca'
+    QUICKNAVTODAY: 'Dziś'
+    QUICKNAVWEEK: 'W tym tygodniu'
+    QUICKNAVMONTH: 'W tym miesiącu'
+    QUICKNAVWEEKEND: 'W ten weekend'
+  CalendarDateTime:
+    INVALIDFORMAT: 'Błędny format daty. Użyj "dmy" zamiast "mdy".'
+  CalendarEvent:
+    REPEATEVENT: 'Powtórz to wydarzenie'
+    DESCRIBEINTERVAL: 'Określ przedział tego wydarzenia:'
+    EVERY: 'każdy '
+    DAYS: ' Dni'
+    WEEKS: ' Tygodni'
+    ONFOLLOWINGDAYS: 'W następujące dni...'
+    MONTHS: ' Miesięcy'
+    ONTHESEDATES: 'W te dni...'
+    ONTHE: 'w ...'
+    OFTHEMONTH: ' miesiąca.'
+    ANYEXCEPTIONS: 'Istnieją wyjątki w powtórzeniu? Jeśli tak, proszę podaj je poniżej.'
+    DATE: Data
+    RSSFEED: 'RSS-Feed tego kalendarza'
+    ADD: 'Dodaj do kalendarza'
+  Calendar.ss:
+    BROWSECALENDAR: 'Przeglądaj kalendarz'
+    USECALENDAR: 'Użyj kalendarz.'
+    SUBSCRIBE: 'Subskrybuj RSS Kalendarium.'
+    ALLDAY: 'Cały dzień'
+    TIME: Czas
+    MORE: Więcej...
+    SEEALSO: 'Zobacz też'
+    NOEVENTS: 'Nie znaleziono wydarzeń.'
+  CalendarEvent.ss:
+    BROWSECALENDAR: 'Przeglądaj kalendarz'
+    USECALENDAR: 'Użyj kalendarz.'
+    FILTERCALENDAR: 'Filtruj kalendarz'
+    BACKTO: 'Cofnij do'
+    SUBSCRIBE: 'Zapisz ten kalendarz.'
+    ADDITIONALDATES: 'Dodatkowe daty'
+    ADD: 'Dodaj do mojego kalendarza'
+    LOCALEFILE: date_pl.js
+  EventList.ss:
+    ADD: 'Dodaj do kalendarza'
+    MORE: 'Czytaj więcej&hellip;'
+    ALLDAY: 'Cały dzień'
